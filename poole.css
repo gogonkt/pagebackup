@@ -6,7 +6,7 @@ body {
     color: #2e3436;
 }
 div#box {
-    border: solid #2e3436 1px;
+    border: solid #2e3436 0px;
 }
 div#header, div#menu, div#content, div#footer {
     padding: 1em;
