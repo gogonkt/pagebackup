@@ -1,0 +1,165 @@
+/*If you're having a hard time with this template just contact me (www.yomena.de). I'll modify it or even create a unique design for you. This template is distributed under the Creative Commons Attribution 3.0 license. Modify it as you like, but please leave credit intact. Have fun!!! */
+
+body {
+margin: 0px;
+padding: 0px;
+background-image: url(tomatoe.jpg);
+background-repeat: no-repeat;
+background-position: 5px 30px;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 90%;
+color:#575757;
+}
+
+.main a {
+color: #6D96B8;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+
+}
+
+h1 {
+font-size: 60px;
+color: silver;
+}
+
+h2{
+font-size: 150%;
+}
+
+hr{
+ border: 0px; /* Für Firefox und Opera */
+ border-top:  dotted 1px #6D96B8;
+ border-bottom: transparent;
+}
+
+ul, li{
+list-style-image: url(ul.jpg);
+}
+
+input{
+border-bottom: 1px  solid silver;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+background-color: white;
+}
+
+button {
+background-image: url(search.jpg);
+background-color: white;
+color: silver;
+background-repeat: no-repeat;
+border: none;
+cursor: pointer;
+height: 15px;
+width: 15px;
+}
+
+
+
+.leftNav li {
+list-style-type: none;
+list-style-image: none;
+margin: 0px;
+padding: 0px;
+line-height: 1.9em;
+}
+
+.leftNav ul {
+
+margin: 0px;
+padding: 0px;
+
+}
+
+.titel{
+position: relative;
+left: 110px;
+width: 600px;
+top: 10px;
+}
+
+.topNav {
+position: relative;
+right: 5%;
+top: 20px;
+font-size: 90%;
+color: silver;
+text-align: right;
+}
+
+.topNav a{
+color: silver;
+text-decoration: none;
+}
+
+.topNav a:hover{
+text-decoration: underline;
+}
+
+.leftNav {
+position: relative;
+top: 120px;
+text-align: left;
+margin: 0px 0px 0px 10px;
+
+}
+
+.leftNav li a{
+color: silver;
+font-size: 130%;
+text-decoration: none;
+padding: 0px;
+font-weight: bold;
+}
+
+.leftNav li a:hover {
+padding: 5px;
+text-decoration: none;
+}
+
+.main {
+clear: left;
+position: relative;
+top: -130px;
+left: 180px;
+width: 60%;
+}
+
+
+
+.footer {
+position: relative;
+top: 10px;
+text-align: right;
+margin: 20px;
+font-size: 80%;
+color: gray;
+}
+
+.footer a {
+color: silver;
+text-decoration: none;
+}
+
+.footer a:hover {
+text-decoration: underline;
+}
+
+blockquote{
+float: right;
+margin: 15px 0px 15px 15px;
+width: 170px;
+font-size: 120%;
+color: gray;
+text-align: right;
+line-height: 1em;
+}
+
+blockquote:first-letter{
+font-size: 190%;
+}
