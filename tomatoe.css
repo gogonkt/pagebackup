@@ -48,7 +48,7 @@ border-right: 0px;
 background-color: white;
 }
 
-button {
+.searchbutton {
 background-image: url(search.jpg);
 background-color: white;
 color: silver;
